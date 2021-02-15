@@ -4,7 +4,7 @@ heroText: PMR字幕组烤肉指北
 heroImage: /images/logo.png
 tagline: 船新2.0版本 只为高效烤肉
 actionText: 砍柴生火 →
-actionLink: /zh/guide/
+actionLink: /guide/
 features:
   - title: 为爱发电
     details: 因为热爱，所以选择。
