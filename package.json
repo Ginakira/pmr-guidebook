@@ -1,0 +1,15 @@
+{
+  "name": "guidebook",
+  "version": "1.0.0",
+  "description": "A video translation guide for PMR-Fansub",
+  "main": "index.js",
+  "author": "Ginakira",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.8.1"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
