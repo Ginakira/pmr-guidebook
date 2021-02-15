@@ -12,14 +12,11 @@ module.exports = {
         lastUpdated: '上次更新',
         displayAllHeaders: true,
         smoothScroll: true,
-        sidebar: [
-            {
-                title: '指北',
-                path: '/guide/',
-                childe: [
-                    '/'
-                ]
-            }
-        ] 
+        sidebar: {
+            '/guide/': [
+                '',
+                'workflow'
+            ]
+        }
     }
 }
