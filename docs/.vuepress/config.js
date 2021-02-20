@@ -17,7 +17,9 @@ module.exports = {
             '/guide/': [
                 '',
                 'workflow',
-                'translate'
+                'translate',
+                'timeline',
+                'effects',
             ]
         }
     }
