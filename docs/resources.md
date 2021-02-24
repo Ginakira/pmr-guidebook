@@ -17,7 +17,7 @@ sidebar: auto
 ## 时轴相关
 
 - [Aegisub 下载](https://aegi.vmoe.info/downloads/)
-- [ASS 标签参考手册](https://aegi.vmoe.info/docs/3.2/Main_Page/)
+- [ASS 标签参考手册](https://aegi.vmoe.info/docs/3.2/ASS_Tags/)
 - [组内样式字体合集](https://stdntpartners-my.sharepoint.com/:f:/g/personal/ginakira_studentambassadors_com/EnvIOdz_13tCu63klAohSHkBW3DQZR2widPAxQFdaRAs8A)
 
 ## 压制相关
