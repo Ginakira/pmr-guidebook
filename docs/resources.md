@@ -8,6 +8,7 @@ sidebar: auto
 
 ## 公用资源
 
+- [工作进度表](https://www.notion.so/sakata/262468461562467a9443904ee63ad154?v=8811fd8e1e734d328e276c84b1d8c603)
 - [往期视频/字幕资源存档](https://stdntpartners-my.sharepoint.com/:f:/g/personal/ginakira_studentambassadors_com/EuczPKQGuNZArc4Be2xXMrkBwkDg8MpCkH59Uoib4FZ3CA)
 
 ## 翻译相关
