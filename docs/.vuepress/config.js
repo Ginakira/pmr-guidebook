@@ -5,6 +5,7 @@ module.exports = {
         logo: '/images/logo.png',
         nav: [
             { text: '指北', link: '/guide/' },
+            { text: '资源', link: '/resources/'},
             { text: '关于我们', link: '/about/'},
             { text: 'Acfun', link: 'https://www.acfun.cn/u/14473357' },
             { text: 'Bilibili', link: 'https://space.bilibili.com/7151607' },
@@ -18,7 +19,8 @@ module.exports = {
                 '',
                 'workflow',
                 'translate',
-                'timeline',
+                'timeline-basic',
+                'timeline-advanced',
                 'effects',
             ]
         }
