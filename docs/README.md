@@ -12,5 +12,5 @@ features:
     details: 竭尽所能，为观众献上高质量的中文字幕。
   - title: 愉快烤肉
     details: 没有硬性指派，没有绩效考核，一切全凭你的内心。
-footer: 采用 MIT 开源协议 | Copyright © 2018-2021 Ginakira
+footer: 采用 GPLv3 协议开源 | Copyright © 2018-2021 Ginakira
 ---

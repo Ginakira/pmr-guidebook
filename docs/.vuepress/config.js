@@ -12,7 +12,7 @@ module.exports = {
             { text: 'Github', link: 'https://github.com/Ginakira/pmr-guidebook' }
         ],
         lastUpdated: '上次更新',
-        displayAllHeaders: true,
+        displayAllHeaders: false,
         smoothScroll: true,
         sidebar: {
             '/guide/': [
