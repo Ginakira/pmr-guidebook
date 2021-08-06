@@ -3,7 +3,13 @@ home: true
 heroText: PMR字幕组烤肉指北
 heroImage: /images/logo.png
 tagline: 船新2.0版本 只为高效烤肉
-actionText: 砍柴生火 →
+actions:
+  - text: 规范文档
+    link: /guide/
+    type: primary
+  - text: 教程
+    link: /tutorial/
+    type: secondary
 actionLink: /guide/
 features:
   - title: 为爱发电
