@@ -8,7 +8,7 @@ actions:
     link: /guide/
     type: primary
   - text: 教程
-    link: /tutorial/
+    link: /tutorial/timeline/timeline-basic.md
     type: secondary
 actionLink: /guide/
 features:

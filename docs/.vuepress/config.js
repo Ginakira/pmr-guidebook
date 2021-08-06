@@ -39,9 +39,14 @@ module.exports = {
         "/guide/timeline.md",
       ],
       "/tutorial/timeline": [
-        "/tutorial/timeline/timeline-basic.md",
-        "/tutorial/timeline/timeline-advanced.md",
-        "/tutorial/timeline/effects.md",
+        {
+          text: "时间轴教程",
+          children: [
+            "/tutorial/timeline/timeline-basic.md",
+            "/tutorial/timeline/timeline-advanced.md",
+            "/tutorial/timeline/effects.md",
+          ],
+        },
       ],
     },
   },
